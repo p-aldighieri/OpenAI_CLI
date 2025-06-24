@@ -1,0 +1,7 @@
+This is a test context file for the OpenAI CLI tool.
+
+Key information:
+- The tool is designed to interact with OpenAI's API
+- It supports multiple models including GPT-4 and O1 models
+- Context can be passed as text or file paths
+- The tool includes logging and error handling
